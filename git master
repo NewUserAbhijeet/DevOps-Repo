@@ -1,0 +1,39 @@
+[33mcommit 1e922a839841ac5faf8ec4ae65bc1421649fd975[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Abhi Singh <abhis4862@gmail.com>
+Date:   Sun Jul 16 06:02:26 2023 +0000
+
+    deleted some files
+
+[33mcommit 7eefa52f637f1ea45134af1b275856508795c9c1[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Abhi Singh <abhis4862@gmail.com>
+Date:   Sun Jul 16 05:19:52 2023 +0000
+
+    new file added Abhijeet
+
+[33mcommit e4232bc07ed3c1e1a2f5218bbc77082980951360[m
+Author: Abhi Singh <abhis4862@gmail.com>
+Date:   Sun Jul 16 05:12:50 2023 +0000
+
+    java file modified
+
+[33mcommit dac949445327f08e0168a71f316c73dcb4d35dfe[m
+Author: Abhi Singh <abhis4862@gmail.com>
+Date:   Sun Jul 16 04:47:04 2023 +0000
+
+    ignore file modified
+    
+     On branch master
+     Changes to be committed:
+            modified:   .gitignore
+
+[33mcommit 314278b455ecd0c762d009836a4bdc4633ef6090[m
+Author: Abhijeet <abhis4862@gmail.com>
+Date:   Sun Jul 9 17:03:44 2023 +0000
+
+    ignoring .tmp and .swp files
+
+[33mcommit 89fd3d7c8ec337db1c7caa4683f4bbb8a5c85542[m
+Author: Abhijeet <abhis4862@gmail.com>
+Date:   Sun Jul 9 15:51:25 2023 +0000
+
+    my first commit
